@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Yilmaz Dogukan Ozlu
 
 You can use the [editor on GitHub](https://github.com/yilmazdozlu/yilmaz/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### about me
+I am master's student in philosophy department at the University of Arizona.
+My work focuses on paradoxes, reality, and meta-semantics. I seek methods to represent grounding relations of things without using self-grounders.
 
 ```markdown
 Syntax highlighted code block
